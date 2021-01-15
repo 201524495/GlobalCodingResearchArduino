@@ -4,7 +4,7 @@ __2021 PNU Field Practice about Smart Farm Coding Education Content Development 
 
 ## 2021 - 01 - 04 글로벌 코딩 연구소 현장 실습 시작
 
-LCD에 계산기 출력하는 파일 수정 필요 (01_06)
+~~LCD에 계산기 출력하는 파일 수정 필요 (01_06)~~
 
 앱 개발로 아두이노 검토는 잠쉬 쉽니다. (01_06 ~ ??_??) 
 
@@ -13,7 +13,7 @@ LCD에 계산기 출력하는 파일 수정 필요 (01_06)
 
 - 코딩 알고 (하) 검토 시작
 
-LCD 계산기 수정 완료 (01_15)
+**LCD 계산기 수정 완료 (01_15)**
 
  (1) Arduino Serial Port에서 전송버튼을 눌렀을 때 설정을
  
@@ -25,7 +25,7 @@ LCD 계산기 수정 완료 (01_15)
   
   - Both LN & CR : 새 줄과 캐리지 리턴, 둘 다 수행합니다.
   
-  즉 No line ending, #"line ending 없음"으로 설정해야 쓰레기 값이 리턴되지 않는다.
+  즉 No line ending, **"line ending 없음"** 으로 설정해야 쓰레기 값이 리턴되지 않는다.
 
 
 쓰레기 값(원하지 않은 값)이 리턴될 경우 전송 설정을 "No line ending"(line ending 없음)으로 설정합니다.
