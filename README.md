@@ -16,7 +16,7 @@ __2021 PNU Field Practice about Smart Farm Coding Education Content Development 
 **LCD 계산기 수정 완료 (01_15)**
 
  (1) Arduino Serial Port에서 전송버튼을 눌렀을 때 설정을
- 
+ '''
   - **No line ending** : 아무것도 보내지 않습니다.
   
   - **새 줄(new line)** : 새 줄, 즉 줄 바꿈 문자('LF' = 0xa or '\n')가 추가됩니다.
@@ -31,6 +31,6 @@ __2021 PNU Field Practice about Smart Farm Coding Education Content Development 
  - 쓰레기 값(원하지 않은 값)이 리턴될 경우 전송 설정을 "No line ending"(line ending 없음)으로 설정합니다.
 
  - LCD 화면이 나오지 않을 경우 뒤에있는 가변 저항기를 돌려줍니다.
-
+'''
 
 ## 2021 - 02 - 26 글로벌 코딩 연구소 현장 실습 종료
