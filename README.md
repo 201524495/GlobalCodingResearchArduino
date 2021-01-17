@@ -1,6 +1,6 @@
 # GlobalCodingResearchArduino
 
-__2021 PNU Field Practice about Smart Farm Coding Education Content Development & Assistance Smart farm Content Development__
+_2021 PNU Field Practice about Smart Farm Coding Education Content Development & Assistance Smart farm Content Development_
 
 ## 2021 - 01 - 04 글로벌 코딩 연구소 현장 실습 시작
 
