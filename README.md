@@ -33,4 +33,16 @@ _2021 PNU Field Practice about Smart Farm Coding Education Content Development &
 
  (2)
 
+
+ 21-01-18
+ ------------
+ 
+ 본격적으로 코D 알고(하) 교재를 수정하기 시작했다. 
+ 
+ 전체적으로 양호한 내용이지만 내가 생각한 것과 다른 내용을 토의하고 수정했다.
+ 
+ 
+ 
+ 
+ 
 ## 2021 - 02 - 26 글로벌 코딩 연구소 현장 실습 종료
