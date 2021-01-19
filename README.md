@@ -46,7 +46,7 @@ _2021 PNU Field Practice about Smart Farm Coding Education Content Development &
   21-01-19
  ---------
  
- 중간 브리핑을 위해 잠시 중단.
+ 중간 점검을 위해 잠시 중단.(01_19)
  
  
  
