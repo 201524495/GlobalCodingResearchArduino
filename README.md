@@ -11,12 +11,12 @@ _2021 PNU Field Practice about Smart Farm Coding Education Content Development &
 21 - 01 - 15
 ------------
 
+- 코딩 알고 (하) 검토 시작
+
 검수자 1 | 검수자 2 | 검수자 3
  ------|------|-----
 안준수 | 서동수 | 이주엽
 
-
-- 코딩 알고 (하) 검토 시작
 
 **LCD 계산기 수정 완료 (01_15)**
 
