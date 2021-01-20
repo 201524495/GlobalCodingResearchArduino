@@ -64,8 +64,9 @@ _2021 PNU Field Practice about Smart Farm Coding Education Content Development &
  + 회로도 설명 작업 - 회로도를 보고 모듈과 센서를 잘 연결할 수 있게끔 ...
  + 자료 검색 - Data Type에 대해, LCD 사용 설명 ...
  + 오탈자 검사 - 그냥 오탈자 ...
- 
-
+ + 저항의 크기를 1KΩ, 10KΩ, 470Ω 중 하나로 정하기
+ + HIGH, 1, true 와 LOW, 0, false,,  하나로 통일
+ + 결과 사진 
  
  
 ## 2021 - 02 - 26 글로벌 코딩 연구소 현장 실습 종료
