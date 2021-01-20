@@ -11,7 +11,7 @@ _2021 PNU Field Practice about Smart Farm Coding Education Content Development &
 21 - 01 - 15
 ------------
 
----|---|---
+-----|-----|-----
 안준수 | 서동수 | 이주엽
 
 
