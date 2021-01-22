@@ -81,7 +81,7 @@ _2021 PNU Field Practice about Smart Farm Coding Education Content Development &
  
   + 문장 들여쓰기 수정
   + 문장 번호, 문단 번호 수정
-  + CH.1~5 // CH.6~10 // CH.11~15 파트별 담당
+  + CH.1 ~ 5 // CH.6 ~ 10 // CH.11 ~ 15 파트별 담당
  
  ### 자율 주행 차
  
