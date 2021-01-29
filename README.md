@@ -130,6 +130,30 @@ _2021 PNU Field Practice about Smart Farm Coding Education Content Development &
   
   + 블루투스 회로도 및 설명 수정  
   + 코드 수정
+  + 블루투스 AT 모드 설정 
+  ```
+  기본상태(연결 x) = 빠른 점멸
+기본상태(연결 O) = 빠르게 2번 점멸
+AT 모드 대기 = 느린 점멸
+AT 모드 = 느린 점멸
+
+
+AT 모드 진입
+ -> EN을 4번핀 연결 -> Bluetooth.ino 업로드 
+->점멸등 빠르게 2번 
+-> VCC 뺏다 꼽기 -> 블루투스 점멸등 느리게 
+-> 시리얼 모니터에 "AT" 치면 "OK" 뜸
+-> 명령어로 블루투스 설정 
+AT+VERSION=""
+AT+NAME=""
+AT+UART=""
+->  
+  
+  ```
+  
+  
+  
+  
  
  ### 스마트 팜
 
