@@ -84,6 +84,7 @@ _2021 PNU Field Practice about Smart Farm Coding Education Content Development &
   __21-01-28__
   
   + 모든 저항 1K, 10K로 통일
+  + 업무 인수인계
  
  ### 코D 알고 (하)
  
@@ -108,6 +109,8 @@ _2021 PNU Field Practice about Smart Farm Coding Education Content Development &
   + 블루투스 모듈 설명 추가
   
   + AT 모드 진입 설명 추가
+  
+  + 업무 인수인계
  
  ### 자율 주행 차
  
@@ -130,6 +133,11 @@ _2021 PNU Field Practice about Smart Farm Coding Education Content Development &
   
   + AT 모드 진입 설명 추가
  
+  __21-01-29__
+  
+  + 블루투스 회로도 및 설명 수정
+  
+  + 코드 
  
  ### 스마트 팜
 
