@@ -86,6 +86,9 @@ _2021 PNU Field Practice about Smart Farm Coding Education Content Development &
   + 모든 저항 1K, 10K로 통일
   + 업무 인수인계
  
+  __21-02-02__
+  + 그림 및 사진 선명하게 수정 
+ 
  ### 코D 알고 (하)
  
   __21-01-22__
@@ -107,6 +110,9 @@ _2021 PNU Field Practice about Smart Farm Coding Education Content Development &
   + 블루투스 모듈 설명 추가  
   + AT 모드 진입 설명 추가  
   + 업무 인수인계
+ 
+  __21-02-02__
+  + 그림 및 사진 선명하게 수정 
  
  ### 자율 주행 차
  
@@ -150,11 +156,11 @@ AT+UART=""
 ->  
   
   ```
+  __21-02-01__
+  + IOS(아이폰)은 HC-05 모듈과 통신 규격이 달라 연결 불가.
+  
   __21-02-02__
-  
-  + IOS(아이폰)은 HC-05 모듈과 조금 달라서 연결이 힘들다.
-  
-  
+  + 그림 및 사진 선명하게 수정
  
  ### 스마트 팜
 
